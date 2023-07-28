@@ -1,0 +1,14 @@
+h1 {
+    color: #2c3e50;
+}
+
+/* Estilo para el fondo */
+body {
+    background-color: whitesmoke; /* Color de fondo */
+    background-image: url('https://veterinariaeltoro.com/wp-content/uploads/2016/06/background-fondo-veterinaria-el-toro-pet-shop-colombia.jpg'); /* URL de la imagen de fondo */
+    background-repeat: repeat; /* No repetir la imagen */
+    background-size: cover; /* Ajustar la imagen al tamaño del contenedor */
+    background-position: center; /* Posición centrada de la imagen */
+  }
+  
+  
